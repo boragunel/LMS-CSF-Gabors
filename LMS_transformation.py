@@ -1,6 +1,6 @@
 
 
-### The code stated below is extracted from the previous VGG16 model and it refers to the RGB/LMS transformations:
+### The code stated below is adapted from the previous VGG16 model and it refers to the RGB/LMS transformations:
 
 
 import torch
