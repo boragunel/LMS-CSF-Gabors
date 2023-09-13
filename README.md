@@ -4,7 +4,7 @@
 4. Extract Cifar categories from the ecoset ZIP file (The provided link might be helpful 'https://github.com/bdevans/BioNet/blob/main/scripts/make_ecoset-cifar10.sh')
 and create a new folder 'ecoset-10' with CIFAR categories
 5. Files specified as 'LMS_transformation.py' refer to the specific modifications of the models
-6. File specified as ... refer to the calculation and estimation for the appropriate parameters
+6. File specified as 'Estim_param_CSF.py' refer to the calculation and estimation for the appropriate parameters
 7. To run the models, change the defualt directories and run
 8. The reference CNN models and codes can be found at 'https://github.com/biocomplab/ColourOpponencyGaborNet' and 'https://github.com/bdevans/BioNet'
 
